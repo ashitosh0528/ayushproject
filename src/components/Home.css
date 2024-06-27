@@ -1,0 +1,79 @@
+.one{
+    background-image: url(https://d3nn873nee648n.cloudfront.net/900x600/17309/220-SM763306.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.abt{
+    display: flex;
+}
+
+.text{
+    text-align: justify;
+}
+
+
+.font{
+    text-decoration: none;
+}
+.lists{
+    list-style: none;
+}
+
+
+.gun{
+   margin-top: -13px;
+}
+
+.ten{
+    margin-top: -120px;
+    background-color: rgb(128, 128, 128);
+    padding: 50px;
+}
+
+.back{
+    height: 300px;
+}
+
+.six{
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+.text1{
+    font-size: 65px;
+    font-weight: 700;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: -40px;
+}
+
+.four{
+    margin-bottom: 40px;
+    font-weight: 700;
+    font-size: 30px;
+}
+.input{
+    margin-bottom: 30px;
+}
+
+#submit{
+    padding-left: 300px;
+    padding-right: 300px;
+    border-radius: 30px;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.on{
+    border-radius: 30px;
+    padding-left:20px ;
+    padding-right: 20px;
+    background-color: rgba(128, 128, 128, 0.19);
+}
+
+.mo{
+    font-size: x-large;
+    font-weight: 500;
+}
+
+
